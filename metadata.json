@@ -1,0 +1,6 @@
+{
+  "name": "Shoot the Planet",
+  "description": "An action-packed endless arcade space game where you launch futuristic energy cannons to blast planets out of orbit!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
